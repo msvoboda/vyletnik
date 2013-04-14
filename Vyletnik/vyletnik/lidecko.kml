@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vylet Title="">
+  <TripPoint Latitude="49.2271059" Longitude="17.9257392" Name="První zastávka u rybníčku" ThumbImage="http://lh3.ggpht.com/_ORacftNL0tg/TXVYsKUlA2I/AAAAAAAAHco/RH-D3tpfbtM/s72/P1070478.JPG">
+    <Content>Nedaleko za Vizovicema u vesničky Prlov</Content>
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TXVYsKUlA2I/AAAAAAAAHco/RH-D3tpfbtM/s72/P1070478.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TXVYsKUlA2I/AAAAAAAAHco/RH-D3tpfbtM/P1070478.JPG" />
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TXVYs3QefBI/AAAAAAAAHcs/Akxn4mZmSkA/s72/P1070485.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TXVYs3QefBI/AAAAAAAAHcs/Akxn4mZmSkA/P1070485.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.2172046" Longitude="18.0481338" Name="Na skalách" ThumbImage="https://lh3.googleusercontent.com/_ORacftNL0tg/TXVYtLypPkI/AAAAAAAAHcw/UPe8pjndSNU/s400/P1070534.JPG">
+    <Content>
+    </Content>
+    <Image Thumbnail="https://lh3.googleusercontent.com/_ORacftNL0tg/TXVYtLypPkI/AAAAAAAAHcw/UPe8pjndSNU/s400/P1070534.JPG" Src="https://lh3.googleusercontent.com/_ORacftNL0tg/TXVYtLypPkI/AAAAAAAAHcw/UPe8pjndSNU/s400/P1070534.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.2172046" Longitude="18.0481338" Name="Dovádění na skalách" ThumbImage="http://lh3.ggpht.com/_ORacftNL0tg/TXVYtZpkeCI/AAAAAAAAHc0/tUhhGdRc5uk/s72/P1070555.JPG">
+    <Content>
+    </Content>
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TXVYtZpkeCI/AAAAAAAAHc0/tUhhGdRc5uk/s72/P1070555.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TXVYtZpkeCI/AAAAAAAAHc0/tUhhGdRc5uk/P1070555.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.2172046" Longitude="18.0481338" Name="Pohled na skály" ThumbImage="http://lh3.ggpht.com/_ORacftNL0tg/TXVYuLghB_I/AAAAAAAAHc4/fy8RqN5aziA/s72/P1070627.JPG">
+    <Content>
+    </Content>
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TXVYuLghB_I/AAAAAAAAHc4/fy8RqN5aziA/s72/P1070627.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TXVYuLghB_I/AAAAAAAAHc4/fy8RqN5aziA/P1070627.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.2172046" Longitude="18.0481338" Name="Čertova skála" ThumbImage="https://lh5.googleusercontent.com/_ORacftNL0tg/TXVYuhqhnyI/AAAAAAAAHc8/ww1vs4Oa2Y0/s400/P1070626.JPG">
+    <Content>
+    </Content>
+    <Image Thumbnail="https://lh5.googleusercontent.com/_ORacftNL0tg/TXVYuhqhnyI/AAAAAAAAHc8/ww1vs4Oa2Y0/s400/P1070626.JPG" Src="https://lh5.googleusercontent.com/_ORacftNL0tg/TXVYuhqhnyI/AAAAAAAAHc8/ww1vs4Oa2Y0/s400/P1070626.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.2398528" Longitude="17.9578185" Name="Pozůstatek Baťovi dálnice" ThumbImage="http://lh4.ggpht.com/_ORacftNL0tg/TXVYvKsS2dI/AAAAAAAAHdA/dTAEXqh5Lgg/s72/P1070643.JPG">
+    <Content>
+    </Content>
+    <Image Thumbnail="http://lh4.ggpht.com/_ORacftNL0tg/TXVYvKsS2dI/AAAAAAAAHdA/dTAEXqh5Lgg/s72/P1070643.JPG" Src="http://lh4.ggpht.com/_ORacftNL0tg/TXVYvKsS2dI/AAAAAAAAHdA/dTAEXqh5Lgg/P1070643.JPG" />
+  </TripPoint>
+</vylet>

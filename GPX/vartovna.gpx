@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Cykloserver.Cz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<trkseg>
+			<trkpt lat="49.27368" lon="17.90454">
+			</trkpt>
+			<trkpt lat="49.27200" lon="17.90763">
+			</trkpt>
+			<trkpt lat="49.27161" lon="17.91089">
+			</trkpt>
+			<trkpt lat="49.27060" lon="17.91261">
+			</trkpt>
+			<trkpt lat="49.26971" lon="17.91458">
+			</trkpt>
+			<trkpt lat="49.26881" lon="17.91638">
+			</trkpt>
+			<trkpt lat="49.26752" lon="17.91690">
+			</trkpt>
+			<trkpt lat="49.26719" lon="17.91801">
+			</trkpt>
+			<trkpt lat="49.26769" lon="17.92136">
+			</trkpt>
+			<trkpt lat="49.26775" lon="17.92480">
+			</trkpt>
+			<trkpt lat="49.26915" lon="17.92866">
+			</trkpt>
+			<trkpt lat="49.27021" lon="17.93321">
+			</trkpt>
+			<trkpt lat="49.27094" lon="17.93673">
+			</trkpt>
+			<trkpt lat="49.27021" lon="17.93896">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

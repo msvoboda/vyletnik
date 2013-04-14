@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Cykloserver.Cz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<trkseg>
+			<trkpt lat="49.23629" lon="17.66438">
+			</trkpt>
+			<trkpt lat="49.23618" lon="17.66473">
+			</trkpt>
+			<trkpt lat="49.23590" lon="17.66563">
+			</trkpt>
+			<trkpt lat="49.23509" lon="17.66537">
+			</trkpt>
+			<trkpt lat="49.23450" lon="17.66559">
+			</trkpt>
+			<trkpt lat="49.23394" lon="17.66567">
+			</trkpt>
+			<trkpt lat="49.23326" lon="17.66554">
+			</trkpt>
+			<trkpt lat="49.23276" lon="17.66559">
+			</trkpt>
+			<trkpt lat="49.23228" lon="17.66593">
+			</trkpt>
+			<trkpt lat="49.23139" lon="17.66705">
+			</trkpt>
+			<trkpt lat="49.23102" lon="17.66820">
+			</trkpt>
+			<trkpt lat="49.23063" lon="17.66919">
+			</trkpt>
+			<trkpt lat="49.23102" lon="17.67078">
+			</trkpt>
+			<trkpt lat="49.23105" lon="17.67172">
+			</trkpt>
+			<trkpt lat="49.23102" lon="17.67340">
+			</trkpt>
+			<trkpt lat="49.23099" lon="17.67447">
+			</trkpt>
+			<trkpt lat="49.23091" lon="17.67537">
+			</trkpt>
+			<trkpt lat="49.23057" lon="17.67726">
+			</trkpt>
+			<trkpt lat="49.23021" lon="17.67936">
+			</trkpt>
+			<trkpt lat="49.23029" lon="17.68069">
+			</trkpt>
+			<trkpt lat="49.23001" lon="17.68271">
+			</trkpt>
+			<trkpt lat="49.22985" lon="17.68378">
+			</trkpt>
+			<trkpt lat="49.22968" lon="17.68438">
+			</trkpt>
+			<trkpt lat="49.22973" lon="17.68550">
+			</trkpt>
+			<trkpt lat="49.22959" lon="17.68790">
+			</trkpt>
+			<trkpt lat="49.22934" lon="17.68958">
+			</trkpt>
+			<trkpt lat="49.22931" lon="17.69112">
+			</trkpt>
+			<trkpt lat="49.22917" lon="17.69198">
+			</trkpt>
+			<trkpt lat="49.22898" lon="17.69331">
+			</trkpt>
+			<trkpt lat="49.22847" lon="17.69477">
+			</trkpt>
+			<trkpt lat="49.22844" lon="17.69584">
+			</trkpt>
+			<trkpt lat="49.22844" lon="17.69670">
+			</trkpt>
+			<trkpt lat="49.22856" lon="17.69837">
+			</trkpt>
+			<trkpt lat="49.22856" lon="17.69915">
+			</trkpt>
+			<trkpt lat="49.22816" lon="17.70005">
+			</trkpt>
+			<trkpt lat="49.22777" lon="17.70086">
+			</trkpt>
+			<trkpt lat="49.22724" lon="17.70198">
+			</trkpt>
+			<trkpt lat="49.22693" lon="17.70155">
+			</trkpt>
+			<trkpt lat="49.22657" lon="17.70159">
+			</trkpt>
+			<trkpt lat="49.22606" lon="17.70327">
+			</trkpt>
+			<trkpt lat="49.22578" lon="17.70404">
+			</trkpt>
+			<trkpt lat="49.22556" lon="17.70515">
+			</trkpt>
+			<trkpt lat="49.22522" lon="17.70636">
+			</trkpt>
+			<trkpt lat="49.22483" lon="17.70734">
+			</trkpt>
+			<trkpt lat="49.22446" lon="17.70799">
+			</trkpt>
+			<trkpt lat="49.22416" lon="17.70867">
+			</trkpt>
+			<trkpt lat="49.22354" lon="17.70966">
+			</trkpt>
+			<trkpt lat="49.22301" lon="17.71022">
+			</trkpt>
+			<trkpt lat="49.22236" lon="17.71048">
+			</trkpt>
+			<trkpt lat="49.22172" lon="17.71069">
+			</trkpt>
+			<trkpt lat="49.22121" lon="17.71095">
+			</trkpt>
+			<trkpt lat="49.22119" lon="17.71215">
+			</trkpt>
+			<trkpt lat="49.22121" lon="17.71365">
+			</trkpt>
+			<trkpt lat="49.22124" lon="17.71477">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

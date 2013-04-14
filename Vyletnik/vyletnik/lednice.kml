@@ -1,0 +1,2570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dovolená Lednice a okolí</name>
+	<open>1</open>
+	<Snippet maxLines="2">Autor: mišák</Snippet>
+	<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFasFQQ9CeE/AAAAAAAAG5c/Gpt5NMejRwM/s160-c/DovolenaLedniceAOkoli.jpg" alt="Dovolená Lednice a okolí"/></a></td><td valign="top"><p><font color="#333333"></font></p><font color="#6B6B6B">Datum: </font><font color="#333333">2.8.2010</font><br/><font color="#6B6B6B">Počet fotografií v albu: </font><font color="#333333">60</font><br/></td></tr><tr><td colspan="2"<p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli"><font color=\"#3964C2\">Zobrazit album</font></a></p></td></tr></table>]]></description>
+	<styleUrl>#document</styleUrl>
+	<Style id="entry30_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavEDyLbrI/AAAAAAAAG3E/LCpFF5RcJsA/s72/P1110324.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry37_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavl-ceBmI/AAAAAAAAG3g/2n5-6cP0F5s/s72/P1110412.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOff.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry58_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry58_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry6_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFas7Lm48yI/AAAAAAAAG1g/Z4RLt-093Ag/s72/P1110110.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry42_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawR_DQzrI/AAAAAAAAG34/tDHb-eZZRCk/s72/P1110438.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry18_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFat051GWaI/AAAAAAAAG2U/ww6QvBnjiZI/s72/P1110186.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry3_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFasZRZhLTI/AAAAAAAAG1Q/AL7tR8ZLpXU/s72/P1110096.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry41_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry41_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry18_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry18_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry29_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFaudaSmgWI/AAAAAAAAG3A/BjZbJ2639Yk/s72/P1110321.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry12_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFatUdkj8-I/AAAAAAAAG14/UwGRxcc0F68/s72/P1110148.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry3_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFasZRZhLTI/AAAAAAAAG1Q/AL7tR8ZLpXU/s72/P1110096.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry17_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFat06bgYkI/AAAAAAAAG2Q/k5MUv4qM9vI/s72/P1110183.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOff.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry28_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaudQSL6NI/AAAAAAAAG28/_YKfzkIXwQA/s72/P1110307.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry2_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFasZdPFhJI/AAAAAAAAG1M/J51oZqf5DlE/s72/P1110093.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry55_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFayfyah-QI/AAAAAAAAG5A/_JNArGxHGa4/s72/P1110542.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry11_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatUGumpVI/AAAAAAAAG10/yhnHwIBHQFk/s72/P1110147.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry7_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFas7c4_MSI/AAAAAAAAG1k/jG5Rai8j8Ig/s72/P1110114.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_off1">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOff.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry50_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry50_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry10_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry10_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry21_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFauPgkYp-I/AAAAAAAAG2g/kj3CI4Efg8g/s72/P1110272.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry16_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFat01UKAKI/AAAAAAAAG2M/iA8JHUnHYZs/s72/P1110175.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry31_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry31_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry39_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFawRUPYFsI/AAAAAAAAG3s/9xB45i6XEjc/s72/P1110416.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry55_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry55_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry13_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatUTCB4cI/AAAAAAAAG18/65DbrxII3Uk/s72/P1110161.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry26_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaudLX4mLI/AAAAAAAAG20/Qf3vWm1znhU/s72/P1110303.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry34_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry34_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry11_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry11_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="document00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#document_off00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#document_on00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry7_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry7_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry59_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry59_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry35_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavlqsH-AI/AAAAAAAAG3Y/-fG-rPiFFgs/s72/P1110391.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry4_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry4_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry57_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry57_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry22_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFauPrGOoEI/AAAAAAAAG2k/JCnq9esVFRU/s72/P1110277.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry30_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavEDyLbrI/AAAAAAAAG3E/LCpFF5RcJsA/s72/P1110324.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry40_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawRUldKnI/AAAAAAAAG3w/mGgEl_-Ri4U/s72/P1110426.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry56_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry56_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry13_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry13_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry51_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry51_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="document0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#document_off1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#document_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry39_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry39_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry36_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavli0nu8I/AAAAAAAAG3c/SjIW6Nr_c5k/s72/P1110406.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry34_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFavlpQUsqI/AAAAAAAAG3U/v1MK9waRoRw/s72/P1110385.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry56_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaygH1u-ZI/AAAAAAAAG5E/XbSjSskcv7k/s72/P1110544.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry31_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFavEIl2WYI/AAAAAAAAG3I/Sa85G4A2pkU/s72/P1110369.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry30_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry30_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry32_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavEHoHNcI/AAAAAAAAG3M/9T2eTu9mF80/s72/P1110374.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry38_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavl_EEAWI/AAAAAAAAG3k/XquonhLuB50/s72/P1110416.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry53_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry53_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry9_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatT-bvF2I/AAAAAAAAG1s/m-91M_K7Vyg/s72/P1110135.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry8_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFas7bZMvlI/AAAAAAAAG1o/xX_8dgEhcsg/s72/P1110119.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry28_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry28_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry21_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry21_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry46_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry46_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry26_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaudLX4mLI/AAAAAAAAG20/Qf3vWm1znhU/s72/P1110303.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry13_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatUTCB4cI/AAAAAAAAG18/65DbrxII3Uk/s72/P1110161.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry51_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaxbuje5qI/AAAAAAAAG4g/DVt-R9fIGvo/s72/P1110490.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry29_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry29_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry19_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry19_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry42_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawR_DQzrI/AAAAAAAAG34/tDHb-eZZRCk/s72/P1110438.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry31_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFavEIl2WYI/AAAAAAAAG3I/Sa85G4A2pkU/s72/P1110369.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry8_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFas7bZMvlI/AAAAAAAAG1o/xX_8dgEhcsg/s72/P1110119.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry28_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaudQSL6NI/AAAAAAAAG28/_YKfzkIXwQA/s72/P1110307.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry5_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry5_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry2_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry2_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry33_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry33_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry46_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFawmc7wHKI/AAAAAAAAG4I/kQ_1MEEsj_8/s72/P1110457.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOn.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry14_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFatpOmHb0I/AAAAAAAAG2A/Mo8wkYO9dZU/s72/P1110163.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_off00">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/63.26/picasa_pinOff.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry27_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaudWaVGrI/AAAAAAAAG24/vWhfCtV1OyI/s72/P1110305.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry16_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry16_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry5_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFas7FXpC4I/AAAAAAAAG1c/jFst_kpJl-I/s72/P1110109.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry22_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFauPrGOoEI/AAAAAAAAG2k/JCnq9esVFRU/s72/P1110277.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry45_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawmLB38NI/AAAAAAAAG4E/rbGRW2Mou5A/s72/P1110456.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry47_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry47_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry15_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFatpB8RUFI/AAAAAAAAG2E/FQllsZTNY1c/s72/P1110162.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry14_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry14_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry26_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry26_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry38_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavl_EEAWI/AAAAAAAAG3k/XquonhLuB50/s72/P1110416.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_on00">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/63.26/picasa_pinOn.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry59_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFay5PsfQPI/AAAAAAAAG5Q/pKrqkGGZQL0/s72/P1110578.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry40_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry40_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry44_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawl7_c64I/AAAAAAAAG4A/NFtPKQ4JwIA/s72/P1110452.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry3_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry3_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry1_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFasZmyOFyI/AAAAAAAAG1U/fZTPzb9tSZU/s72/P1110097.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry49_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaxbhlGPFI/AAAAAAAAG4Y/4M3hb9-xAPs/s72/P1110472.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry7_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFas7c4_MSI/AAAAAAAAG1k/jG5Rai8j8Ig/s72/P1110114.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry60_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry60_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry14_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFatpOmHb0I/AAAAAAAAG2A/Mo8wkYO9dZU/s72/P1110163.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry36_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry36_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry2_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFasZdPFhJI/AAAAAAAAG1M/J51oZqf5DlE/s72/P1110093.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry32_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFavEHoHNcI/AAAAAAAAG3M/9T2eTu9mF80/s72/P1110374.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry8_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry8_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry6_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry6_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry55_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFayfyah-QI/AAAAAAAAG5A/_JNArGxHGa4/s72/P1110542.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="document_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOn.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry27_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry27_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry9_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatT-bvF2I/AAAAAAAAG1s/m-91M_K7Vyg/s72/P1110135.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry47_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawmVRGGJI/AAAAAAAAG4M/1igysrhaYeE/s72/P1110468.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry48_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawmn3AiiI/AAAAAAAAG4Q/vvt_jSByjUg/s72/P1110469.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry170">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry17_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry17_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry10_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFatT3zCBRI/AAAAAAAAG1w/gT4vMQPPWvs/s72/P1110141.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry22_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry22_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry37_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavl-ceBmI/AAAAAAAAG3g/2n5-6cP0F5s/s72/P1110412.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry59_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFay5PsfQPI/AAAAAAAAG5Q/pKrqkGGZQL0/s72/P1110578.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry12_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFatUdkj8-I/AAAAAAAAG14/UwGRxcc0F68/s72/P1110148.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry58_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFay5A1Qa_I/AAAAAAAAG5M/ZntF2iIMQ_g/s72/P1110567.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry18_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFat051GWaI/AAAAAAAAG2U/ww6QvBnjiZI/s72/P1110186.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry44_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawl7_c64I/AAAAAAAAG4A/NFtPKQ4JwIA/s72/P1110452.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry19_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFat0yaJ2TI/AAAAAAAAG2Y/CIMQoWNB15w/s72/P1110187.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry32_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry32_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry48_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawmn3AiiI/AAAAAAAAG4Q/vvt_jSByjUg/s72/P1110469.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry11_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFatUGumpVI/AAAAAAAAG10/yhnHwIBHQFk/s72/P1110147.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry43_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawSNij33I/AAAAAAAAG38/YHBZv1YXzFI/s72/P1110448.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry9_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry9_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry16_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFat01UKAKI/AAAAAAAAG2M/iA8JHUnHYZs/s72/P1110175.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry60_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFay5Umb4XI/AAAAAAAAG5U/1CfFIV19Ff0/s72/P1110610.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry4_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFas7BMXSbI/AAAAAAAAG1Y/kyvspds9dAE/s72/P1110098.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry15_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFatpB8RUFI/AAAAAAAAG2E/FQllsZTNY1c/s72/P1110162.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry50_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFaxbmj5X0I/AAAAAAAAG4c/VqyU_IiX2x4/s72/P1110487.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry56_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaygH1u-ZI/AAAAAAAAG5E/XbSjSskcv7k/s72/P1110544.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry42_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry42_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry10_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFatT3zCBRI/AAAAAAAAG1w/gT4vMQPPWvs/s72/P1110141.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry21_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFauPgkYp-I/AAAAAAAAG2g/kj3CI4Efg8g/s72/P1110272.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry19_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFat0yaJ2TI/AAAAAAAAG2Y/CIMQoWNB15w/s72/P1110187.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry53_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFayfppuHMI/AAAAAAAAG44/hcTDjCmyfE0/s72/P1110516.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry49_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaxbhlGPFI/AAAAAAAAG4Y/4M3hb9-xAPs/s72/P1110472.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry35_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavlqsH-AI/AAAAAAAAG3Y/-fG-rPiFFgs/s72/P1110391.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry48_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry48_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry44_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry44_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry33_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFavEY0P3KI/AAAAAAAAG3Q/-8SFzsJYV8c/s72/P1110379.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry43_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawSNij33I/AAAAAAAAG38/YHBZv1YXzFI/s72/P1110448.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry45_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawmLB38NI/AAAAAAAAG4E/rbGRW2Mou5A/s72/P1110456.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry53_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFayfppuHMI/AAAAAAAAG44/hcTDjCmyfE0/s72/P1110516.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry12_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry12_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry36_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFavli0nu8I/AAAAAAAAG3c/SjIW6Nr_c5k/s72/P1110406.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry29_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFaudaSmgWI/AAAAAAAAG3A/BjZbJ2639Yk/s72/P1110321.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry43_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry43_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry60_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFay5Umb4XI/AAAAAAAAG5U/1CfFIV19Ff0/s72/P1110610.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry4_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFas7BMXSbI/AAAAAAAAG1Y/kyvspds9dAE/s72/P1110098.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry52_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry52_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry47_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFawmVRGGJI/AAAAAAAAG4M/1igysrhaYeE/s72/P1110468.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry50_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFaxbmj5X0I/AAAAAAAAG4c/VqyU_IiX2x4/s72/P1110487.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry52_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaxb9nDFSI/AAAAAAAAG4k/wxBMhpbacZ8/s72/P1110506.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry41_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawRs0Uy-I/AAAAAAAAG30/LILbZzzRPY0/s72/P1110428.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry57_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFaygLp5quI/AAAAAAAAG5I/Rusd1ZRDuTM/s72/P1110562.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry40_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawRUldKnI/AAAAAAAAG3w/mGgEl_-Ri4U/s72/P1110426.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry39_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFawRUPYFsI/AAAAAAAAG3s/9xB45i6XEjc/s72/P1110416.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry17_on0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh6.ggpht.com/_ORacftNL0tg/TFat06bgYkI/AAAAAAAAG2Q/k5MUv4qM9vI/s72/P1110183.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry49_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry49_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry46_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFawmc7wHKI/AAAAAAAAG4I/kQ_1MEEsj_8/s72/P1110457.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry27_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaudWaVGrI/AAAAAAAAG24/vWhfCtV1OyI/s72/P1110305.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry33_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFavEY0P3KI/AAAAAAAAG3Q/-8SFzsJYV8c/s72/P1110379.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry45_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry45_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry35_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry35_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry15_off0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry15_on0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="document_on1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://picasaweb.google.cz/s/v/61.18/picasa_pinOn.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry58_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFay5A1Qa_I/AAAAAAAAG5M/ZntF2iIMQ_g/s72/P1110567.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry1_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFasZmyOFyI/AAAAAAAAG1U/fZTPzb9tSZU/s72/P1110097.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry41_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFawRs0Uy-I/AAAAAAAAG30/LILbZzzRPY0/s72/P1110428.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="entry38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry38_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry38_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry57_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFaygLp5quI/AAAAAAAAG5I/Rusd1ZRDuTM/s72/P1110562.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="document">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#document_off1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#document_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry1_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry1_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry34_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFavlpQUsqI/AAAAAAAAG3U/v1MK9waRoRw/s72/P1110385.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry51_off">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFaxbuje5qI/AAAAAAAAG4g/DVt-R9fIGvo/s72/P1110490.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry52_on">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://lh5.ggpht.com/_ORacftNL0tg/TFaxb9nDFSI/AAAAAAAAG4k/wxBMhpbacZ8/s72/P1110506.JPG</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="document01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#document_off1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#document_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="entry37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#entry37_off</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#entry37_on</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="entry5_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh4.ggpht.com/_ORacftNL0tg/TFas7FXpC4I/AAAAAAAAG1c/jFst_kpJl-I/s72/P1110109.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="entry6_off0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://lh3.ggpht.com/_ORacftNL0tg/TFas7Lm48yI/AAAAAAAAG1g/Z4RLt-093Ag/s72/P1110110.JPG</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://picasaweb.google.cz"><img src="http://www.google.com/accounts/lh2/picasaweblogo-cs.gif" alt="Webová alba programu Picasa"></a><hr color="#dfdfdf"/><font face="Arial" style="font-size:10pt" color="#4d4d4d"><b>$[name]</b>$[description]</font>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Placemark id="entry1">
+		<name>P1110097.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773550787532578"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFasZmyOFyI/AAAAAAAAG1U/fZTPzb9tSZU/s400/P1110097.JPG" alt="P1110097.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 10:14</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773550787532578"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry1</styleUrl>
+		<Point>
+			<coordinates>17.278754,48.882229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry2">
+		<name>P1110093.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773548224251026"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFasZdPFhJI/AAAAAAAAG1M/J51oZqf5DlE/s400/P1110093.JPG" alt="P1110093.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 10:08</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773548224251026"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry20</styleUrl>
+		<Point>
+			<coordinates>17.278754,48.882229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry3">
+		<name>P1110096.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773545046781234"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFasZRZhLTI/AAAAAAAAG1Q/AL7tR8ZLpXU/s400/P1110096.JPG" alt="P1110096.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 10:11</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500773545046781234"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry32</styleUrl>
+		<Point>
+			<coordinates>17.278754,48.882229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry4">
+		<name>P1110098.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774124812192178"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFas7BMXSbI/AAAAAAAAG1Y/kyvspds9dAE/s400/P1110098.JPG" alt="P1110098.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 11:57</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774124812192178"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry40</styleUrl>
+		<Point>
+			<coordinates>16.8253898,48.7865375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry5">
+		<name>P1110109.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774125933235074"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFas7FXpC4I/AAAAAAAAG1c/jFst_kpJl-I/s400/P1110109.JPG" alt="P1110109.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 13:53</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774125933235074"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry50</styleUrl>
+		<Point>
+			<coordinates>16.823287,48.7826919,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry6">
+		<name>P1110110.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774127607804706"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFas7Lm48yI/AAAAAAAAG1g/Z4RLt-093Ag/s400/P1110110.JPG" alt="P1110110.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 14:14</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774127607804706"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry60</styleUrl>
+		<Point>
+			<coordinates>16.7967653,48.7748301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry7">
+		<name>P1110114.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774132247114018"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFas7c4_MSI/AAAAAAAAG1k/jG5Rai8j8Ig/s400/P1110114.JPG" alt="P1110114.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 14:16</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774132247114018"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry70</styleUrl>
+		<Point>
+			<coordinates>16.7967653,48.7748301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry8">
+		<name>P1110119.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774131845348946"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFas7bZMvlI/AAAAAAAAG1o/xX_8dgEhcsg/s400/P1110119.JPG" alt="P1110119.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 14:19</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774131845348946"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry80</styleUrl>
+		<Point>
+			<coordinates>16.7967653,48.7748301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry9">
+		<name>P1110135.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774553568089954"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFatT-bvF2I/AAAAAAAAG1s/m-91M_K7Vyg/s400/P1110135.JPG" alt="P1110135.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 15:23</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774553568089954"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry90</styleUrl>
+		<Point>
+			<coordinates>16.7956495,48.7834271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry10">
+		<name>P1110141.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774551786751250"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFatT3zCBRI/AAAAAAAAG1w/gT4vMQPPWvs/s400/P1110141.JPG" alt="P1110141.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 15:46</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774551786751250"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry100</styleUrl>
+		<Point>
+			<coordinates>16.8077945,48.8012527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry11">
+		<name>P1110147.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774555794711890"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFatUGumpVI/AAAAAAAAG10/yhnHwIBHQFk/s400/P1110147.JPG" alt="P1110147.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 15:54</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774555794711890"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry110</styleUrl>
+		<Point>
+			<coordinates>16.8069362,48.8038956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry12">
+		<name>P1110148.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774561926607842"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFatUdkj8-I/AAAAAAAAG14/UwGRxcc0F68/s400/P1110148.JPG" alt="P1110148.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 16:02</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774561926607842"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry120</styleUrl>
+		<Point>
+			<coordinates>16.8081486,48.8091457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry13">
+		<name>P1110161.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774559097414082"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFatUTCB4cI/AAAAAAAAG18/65DbrxII3Uk/s400/P1110161.JPG" alt="P1110161.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 16:22</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774559097414082"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry130</styleUrl>
+		<Point>
+			<coordinates>16.8126869,48.814155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry14">
+		<name>P1110163.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774918683848514"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFatpOmHb0I/AAAAAAAAG2A/Mo8wkYO9dZU/s400/P1110163.JPG" alt="P1110163.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 16:26</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774918683848514"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry140</styleUrl>
+		<Point>
+			<coordinates>16.8126869,48.814155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry15">
+		<name>P1110162.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774915287109714"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFatpB8RUFI/AAAAAAAAG2E/FQllsZTNY1c/s400/P1110162.JPG" alt="P1110162.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 16:25</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500774915287109714"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry150</styleUrl>
+		<Point>
+			<coordinates>16.8126869,48.814155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry16">
+		<name>P1110175.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775118056063138"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFat01UKAKI/AAAAAAAAG2M/iA8JHUnHYZs/s400/P1110175.JPG" alt="P1110175.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 16:34</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775118056063138"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry160</styleUrl>
+		<Point>
+			<coordinates>16.8126869,48.814155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry17">
+		<name>P1110183.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775119429067330"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFat06bgYkI/AAAAAAAAG2Q/k5MUv4qM9vI/s400/P1110183.JPG" alt="P1110183.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 18:38</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775119429067330"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry170</styleUrl>
+		<Point>
+			<coordinates>16.8316769,48.8044256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry18">
+		<name>P1110186.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775119267977634"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFat051GWaI/AAAAAAAAG2U/ww6QvBnjiZI/s400/P1110186.JPG" alt="P1110186.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 18:39</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775119267977634"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry180</styleUrl>
+		<Point>
+			<coordinates>16.8316769,48.8044256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry19">
+		<name>P1110187.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775117275912498"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFat0yaJ2TI/AAAAAAAAG2Y/CIMQoWNB15w/s400/P1110187.JPG" alt="P1110187.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">29.7.2010 18:40</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775117275912498"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry19</styleUrl>
+		<Point>
+			<coordinates>16.8316769,48.8044256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry21">
+		<name>P1110272.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775576343455714"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFauPgkYp-I/AAAAAAAAG2g/kj3CI4Efg8g/s400/P1110272.JPG" alt="P1110272.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">30.7.2010 14:05</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775576343455714"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry21</styleUrl>
+		<Point>
+			<coordinates>16.572082,48.5700903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry22">
+		<name>P1110277.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775579169759298"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFauPrGOoEI/AAAAAAAAG2k/JCnq9esVFRU/s400/P1110277.JPG" alt="P1110277.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">30.7.2010 14:12</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775579169759298"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry22</styleUrl>
+		<Point>
+			<coordinates>16.572082,48.5700902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry26">
+		<name>P1110303.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775811172047026"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFaudLX4mLI/AAAAAAAAG20/Qf3vWm1znhU/s400/P1110303.JPG" alt="P1110303.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 11:38</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775811172047026"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry260</styleUrl>
+		<Point>
+			<coordinates>16.8747425,48.7671933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry27">
+		<name>P1110305.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775814135093938"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFaudWaVGrI/AAAAAAAAG24/vWhfCtV1OyI/s400/P1110305.JPG" alt="P1110305.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 11:41</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775814135093938"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry27</styleUrl>
+		<Point>
+			<coordinates>16.8747425,48.7671933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry28">
+		<name>P1110307.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775812490324178"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFaudQSL6NI/AAAAAAAAG28/_YKfzkIXwQA/s400/P1110307.JPG" alt="P1110307.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 11:42</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775812490324178"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry28</styleUrl>
+		<Point>
+			<coordinates>16.8747425,48.7671933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry29">
+		<name>P1110321.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775815176421730"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFaudaSmgWI/AAAAAAAAG3A/BjZbJ2639Yk/s400/P1110321.JPG" alt="P1110321.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 13:04</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500775815176421730"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry29</styleUrl>
+		<Point>
+			<coordinates>16.8949556,48.7278599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry30">
+		<name>P1110324.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776479149747890"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFavEDyLbrI/AAAAAAAAG3E/LCpFF5RcJsA/s400/P1110324.JPG" alt="P1110324.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 13:54</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776479149747890"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry30</styleUrl>
+		<Point>
+			<coordinates>16.8949556,48.7278599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry31">
+		<name>P1110369.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776480440211842"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFavEIl2WYI/AAAAAAAAG3I/Sa85G4A2pkU/s400/P1110369.JPG" alt="P1110369.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:00</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776480440211842"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry31</styleUrl>
+		<Point>
+			<coordinates>16.7694711,48.72919039999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry32">
+		<name>P1110374.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776480181269954"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFavEHoHNcI/AAAAAAAAG3M/9T2eTu9mF80/s400/P1110374.JPG" alt="P1110374.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:02</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776480181269954"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry320</styleUrl>
+		<Point>
+			<coordinates>16.7450952,48.7336628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry33">
+		<name>P1110379.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776484795571362"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFavEY0P3KI/AAAAAAAAG3Q/-8SFzsJYV8c/s400/P1110379.JPG" alt="P1110379.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:03</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500776484795571362"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry33</styleUrl>
+		<Point>
+			<coordinates>16.7450952,48.7336628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry34">
+		<name>P1110385.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777056143979170"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFavlpQUsqI/AAAAAAAAG3U/v1MK9waRoRw/s400/P1110385.JPG" alt="P1110385.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:09</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777056143979170"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry34</styleUrl>
+		<Point>
+			<coordinates>16.7450952,48.7336628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry35">
+		<name>P1110391.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777056529020930"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFavlqsH-AI/AAAAAAAAG3Y/-fG-rPiFFgs/s400/P1110391.JPG" alt="P1110391.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:19</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777056529020930"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry35</styleUrl>
+		<Point>
+			<coordinates>16.7359542,48.7367197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry36">
+		<name>P1110406.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777054417173442"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFavli0nu8I/AAAAAAAAG3c/SjIW6Nr_c5k/s400/P1110406.JPG" alt="P1110406.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:25</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777054417173442"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry36</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry37">
+		<name>P1110412.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777061832066658"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFavl-ceBmI/AAAAAAAAG3g/2n5-6cP0F5s/s400/P1110412.JPG" alt="P1110412.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:29</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777061832066658"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry37</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry38">
+		<name>P1110416.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777061998133602"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFavl_EEAWI/AAAAAAAAG3k/XquonhLuB50/s400/P1110416.JPG" alt="P1110416.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:32</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777061998133602"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry38</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry39">
+		<name>P1110416.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777806417106626"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFawRUPYFsI/AAAAAAAAG3s/9xB45i6XEjc/s400/P1110416.JPG" alt="P1110416.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:32</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777806417106626"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry39</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry40">
+		<name>P1110426.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777806509714034"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFawRUldKnI/AAAAAAAAG3w/mGgEl_-Ri4U/s400/P1110426.JPG" alt="P1110426.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:43</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777806509714034"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry400</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry41">
+		<name>P1110428.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777813014531042"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFawRs0Uy-I/AAAAAAAAG30/LILbZzzRPY0/s400/P1110428.JPG" alt="P1110428.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 17:46</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777813014531042"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry41</styleUrl>
+		<Point>
+			<coordinates>16.7361259,48.7370027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry42">
+		<name>P1110438.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777817909022386"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFawR_DQzrI/AAAAAAAAG34/tDHb-eZZRCk/s400/P1110438.JPG" alt="P1110438.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 18:17</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777817909022386"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry42</styleUrl>
+		<Point>
+			<coordinates>16.7374563,48.7403565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry43">
+		<name>P1110448.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777821798391666"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFawSNij33I/AAAAAAAAG38/YHBZv1YXzFI/s400/P1110448.JPG" alt="P1110448.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:07</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500777821798391666"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry43</styleUrl>
+		<Point>
+			<coordinates>16.7926883,48.7502469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry44">
+		<name>P1110452.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778160685116290"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFawl7_c64I/AAAAAAAAG4A/NFtPKQ4JwIA/s400/P1110452.JPG" alt="P1110452.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:08</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778160685116290"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry44</styleUrl>
+		<Point>
+			<coordinates>16.7926882,48.7502469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry45">
+		<name>P1110456.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778164721807570"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFawmLB38NI/AAAAAAAAG4E/rbGRW2Mou5A/s400/P1110456.JPG" alt="P1110456.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:09</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778164721807570"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry45</styleUrl>
+		<Point>
+			<coordinates>16.7926882,48.7502469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry46">
+		<name>P1110457.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778169527966882"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFawmc7wHKI/AAAAAAAAG4I/kQ_1MEEsj_8/s400/P1110457.JPG" alt="P1110457.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:22</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778169527966882"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry46</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry47">
+		<name>P1110468.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778167470004370"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFawmVRGGJI/AAAAAAAAG4M/1igysrhaYeE/s400/P1110468.JPG" alt="P1110468.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:24</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778167470004370"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry47</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry48">
+		<name>P1110469.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778172460861986"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFawmn3AiiI/AAAAAAAAG4Q/vvt_jSByjUg/s400/P1110469.JPG" alt="P1110469.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:24</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500778172460861986"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry48</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry49">
+		<name>P1110472.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779081308191826"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFaxbhlGPFI/AAAAAAAAG4Y/4M3hb9-xAPs/s400/P1110472.JPG" alt="P1110472.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:25</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779081308191826"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry49</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry50">
+		<name>P1110487.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779082645331778"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFaxbmj5X0I/AAAAAAAAG4c/VqyU_IiX2x4/s400/P1110487.JPG" alt="P1110487.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:28</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779082645331778"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry500</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry51">
+		<name>P1110490.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779084791080610"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFaxbuje5qI/AAAAAAAAG4g/DVt-R9fIGvo/s400/P1110490.JPG" alt="P1110490.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 19:29</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779084791080610"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry51</styleUrl>
+		<Point>
+			<coordinates>16.8061101,48.7608709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry52">
+		<name>P1110506.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779088832566562"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFaxb9nDFSI/AAAAAAAAG4k/wxBMhpbacZ8/s400/P1110506.JPG" alt="P1110506.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">31.7.2010 20:47</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500779088832566562"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry52</styleUrl>
+		<Point>
+			<coordinates>16.8262481,48.7856044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry53">
+		<name>P1110516.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780251706170562"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFayfppuHMI/AAAAAAAAG44/hcTDjCmyfE0/s400/P1110516.JPG" alt="P1110516.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 9:45</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780251706170562"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry53</styleUrl>
+		<Point>
+			<coordinates>16.6929531,48.8630773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry55">
+		<name>P1110542.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780254058379522"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFayfyah-QI/AAAAAAAAG5A/_JNArGxHGa4/s400/P1110542.JPG" alt="P1110542.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 10:41</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780254058379522"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry55</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.876006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry56">
+		<name>P1110544.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780259809622418"><img style="border:1px solid #5C7FB9" src="http://lh5.ggpht.com/_ORacftNL0tg/TFaygH1u-ZI/AAAAAAAAG5E/XbSjSskcv7k/s400/P1110544.JPG" alt="P1110544.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 10:42</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780259809622418"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry56</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.8760059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry57">
+		<name>P1110562.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780260833733346"><img style="border:1px solid #5C7FB9" src="http://lh4.ggpht.com/_ORacftNL0tg/TFaygLp5quI/AAAAAAAAG5I/Rusd1ZRDuTM/s400/P1110562.JPG" alt="P1110562.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 10:48</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780260833733346"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry57</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.8760059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry58">
+		<name>P1110567.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780687425301490"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFay5A1Qa_I/AAAAAAAAG5M/ZntF2iIMQ_g/s400/P1110567.JPG" alt="P1110567.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 10:51</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780687425301490"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry58</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.8760059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry59">
+		<name>P1110578.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780691415056626"><img style="border:1px solid #5C7FB9" src="http://lh6.ggpht.com/_ORacftNL0tg/TFay5PsfQPI/AAAAAAAAG5Q/pKrqkGGZQL0/s400/P1110578.JPG" alt="P1110578.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 10:54</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780691415056626"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry59</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.8760059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="entry60">
+		<name>P1110610.JPG</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table><tr><td style="padding: 0 5px"><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780692731847026"><img style="border:1px solid #5C7FB9" src="http://lh3.ggpht.com/_ORacftNL0tg/TFay5Umb4XI/AAAAAAAAG5U/1CfFIV19Ff0/s400/P1110610.JPG" alt="P1110610.JPG"/></a></td><td valign="top"><font color="#6B6B6B">Datum: </font><font color="#333333">1.8.2010 11:24</font><br/><font color=\"#6B6B6B\">Počet poznámek u fotografie:</font><font color=\"#333333\">0</font><br/><p><a href="http://picasaweb.google.cz/misak.svobo/DovolenaLedniceAOkoli#5500780692731847026"><font color="#3964C2">Zobrazit fotografii</font></a></p></td></tr></table>]]></description>
+		<styleUrl>#entry600</styleUrl>
+		<Point>
+			<coordinates>16.6620111,48.8760059,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

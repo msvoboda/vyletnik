@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GPS device</name>
+	<open>1</open>
+	<Snippet maxLines="2">Created 03/16/11 23:32:59</Snippet>
+	<LookAt>
+		<longitude>17.327195</longitude>
+		<latitude>49.17556</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>3976.603634</range>
+	</LookAt>
+	<Style id="multiTrack_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>99ffac59</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="track-6_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-6.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<StyleMap id="track-none">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-none_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-none_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-1_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-1.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-10_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-0_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-0_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-13_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-13.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-1_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-1.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-1_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-1_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="track-7_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-7.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="waypoint">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-10_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-0_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-14_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-14.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-15_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-15_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="track-7_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-7.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-11_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-11.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-14_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-14.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<StyleMap id="multiTrack">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#multiTrack_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#multiTrack_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle">
+		<LineStyle>
+			<color>99ffac59</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="track-8_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-8.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-4_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-4.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-11_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-11.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<StyleMap id="track-12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-12_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-12_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-5_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-5.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-15_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-15.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-11_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-11_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-8_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-8.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-4_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-4.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-2_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-2.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-12_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-12.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-14_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-14_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-15_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-15.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-5_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-5.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<StyleMap id="track-13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-13_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-13_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="track-2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-2_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-2_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-9_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-9.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-10_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-10_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-3_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-3.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-2_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-2.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-8_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-8_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-12_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-12.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-none_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<StyleMap id="track-9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-9_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-9_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="multiTrack_n">
+		<IconStyle>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>99ffac59</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="track-6_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-6.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-7_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-7_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="track-6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-6_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-6_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-9_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-9.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+	</Style>
+	<Style id="track-3_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-3.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-5_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-5_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-0_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-4_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-4_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-13_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-13.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-none_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+			</Icon>
+			<gx:headingMode>northUp</gx:headingMode>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="track-3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-3_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-3_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Tracks</name>
+		<Folder>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table>
+            <tr><td><b>Distance</b> 3.4 km </td></tr>
+            <tr><td><b>Min Alt</b> 999999.999 km </td></tr>
+          </table>]]></description>
+			<Folder>
+				<name>Points</name>
+				<Placemark>
+					<name>-0</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.345950 </td></tr>
+                <tr><td>Latitude: 49.181760 </td></tr>
+                <tr><td>Heading: 14.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34595</longitude>
+						<latitude>49.18176</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34595,49.18176,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-1</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.342950 </td></tr>
+                <tr><td>Latitude: 49.181590 </td></tr>
+                <tr><td>Heading: 265.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34295</longitude>
+						<latitude>49.18159</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34295,49.18159,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.342000 </td></tr>
+                <tr><td>Latitude: 49.181370 </td></tr>
+                <tr><td>Heading: 250.5 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.342</longitude>
+						<latitude>49.18137</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.342,49.18137,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-3</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.341060 </td></tr>
+                <tr><td>Latitude: 49.180810 </td></tr>
+                <tr><td>Heading: 227.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34106</longitude>
+						<latitude>49.18081</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34106,49.18081,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-4</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.339430 </td></tr>
+                <tr><td>Latitude: 49.179800 </td></tr>
+                <tr><td>Heading: 226.5 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33943</longitude>
+						<latitude>49.1798</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33943,49.17980000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-5</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.337030 </td></tr>
+                <tr><td>Latitude: 49.179400 </td></tr>
+                <tr><td>Heading: 255.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33703</longitude>
+						<latitude>49.1794</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33703,49.1794,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-6</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.333250 </td></tr>
+                <tr><td>Latitude: 49.178900 </td></tr>
+                <tr><td>Heading: 258.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33325</longitude>
+						<latitude>49.1789</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33325,49.1789,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-7</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.332390 </td></tr>
+                <tr><td>Latitude: 49.178390 </td></tr>
+                <tr><td>Heading: 227.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33239</longitude>
+						<latitude>49.17839</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33239,49.17839,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-8</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.332050 </td></tr>
+                <tr><td>Latitude: 49.177500 </td></tr>
+                <tr><td>Heading: 194.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33205</longitude>
+						<latitude>49.1775</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33205,49.1775,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-9</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.330250 </td></tr>
+                <tr><td>Latitude: 49.177210 </td></tr>
+                <tr><td>Heading: 256.2 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33025</longitude>
+						<latitude>49.17721</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33025,49.17721,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-10</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.328100 </td></tr>
+                <tr><td>Latitude: 49.176710 </td></tr>
+                <tr><td>Heading: 250.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.3281</longitude>
+						<latitude>49.17671</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.3281,49.17671,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-11</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.327070 </td></tr>
+                <tr><td>Latitude: 49.176320 </td></tr>
+                <tr><td>Heading: 239.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32707</longitude>
+						<latitude>49.17632</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32707,49.17632,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-12</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.326640 </td></tr>
+                <tr><td>Latitude: 49.175590 </td></tr>
+                <tr><td>Heading: 201.1 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32664</longitude>
+						<latitude>49.17559</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32664,49.17559,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-13</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.324920 </td></tr>
+                <tr><td>Latitude: 49.175190 </td></tr>
+                <tr><td>Heading: 250.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32492</longitude>
+						<latitude>49.17519</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32492,49.17518999999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-14</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.322260 </td></tr>
+                <tr><td>Latitude: 49.173010 </td></tr>
+                <tr><td>Heading: 218.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32226</longitude>
+						<latitude>49.17301</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32226,49.17301,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-15</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.320460 </td></tr>
+                <tr><td>Latitude: 49.170870 </td></tr>
+                <tr><td>Heading: 208.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32046</longitude>
+						<latitude>49.17087</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32046,49.17087,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-16</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.319430 </td></tr>
+                <tr><td>Latitude: 49.170090 </td></tr>
+                <tr><td>Heading: 220.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31943</longitude>
+						<latitude>49.17009</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31943,49.17009,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-17</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.317200 </td></tr>
+                <tr><td>Latitude: 49.169530 </td></tr>
+                <tr><td>Heading: 249.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.3172</longitude>
+						<latitude>49.16953</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.3172,49.16953,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-18</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.314970 </td></tr>
+                <tr><td>Latitude: 49.169360 </td></tr>
+                <tr><td>Heading: 263.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31497</longitude>
+						<latitude>49.16936</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31497,49.16936,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-19</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.312990 </td></tr>
+                <tr><td>Latitude: 49.169580 </td></tr>
+                <tr><td>Heading: 279.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31299</longitude>
+						<latitude>49.16958</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31299,49.16958,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-20</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.311360 </td></tr>
+                <tr><td>Latitude: 49.170140 </td></tr>
+                <tr><td>Heading: 297.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31136</longitude>
+						<latitude>49.17014</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31136,49.17014,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-21</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.309820 </td></tr>
+                <tr><td>Latitude: 49.170370 </td></tr>
+                <tr><td>Heading: 282.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30982</longitude>
+						<latitude>49.17037</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30982,49.17037,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-22</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.308440 </td></tr>
+                <tr><td>Latitude: 49.171100 </td></tr>
+                <tr><td>Heading: 309.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30844</longitude>
+						<latitude>49.1711</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30844,49.17110000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-23</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.309050 </td></tr>
+                <tr><td>Latitude: 49.171270 </td></tr>
+                <tr><td>Heading: 66.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30905</longitude>
+						<latitude>49.17127</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30905,49.17127000000001,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>Path</name>
+				<styleUrl>#lineStyle</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						17.34595,49.18176,0 17.34295,49.18159,0 17.342,49.18137,0 17.34106,49.18081,0 17.33943,49.17980000000001,0 17.33703,49.1794,0 17.33325,49.1789,0 17.33239,49.17839,0 17.33205,49.1775,0 17.33025,49.17721,0 17.3281,49.17671,0 17.32707,49.17632,0 17.32664,49.17559,0 17.32492,49.17518999999999,0 17.32226,49.17301,0 17.32046,49.17087,0 17.31943,49.17009,0 17.3172,49.16953,0 17.31497,49.16936,0 17.31299,49.16958,0 17.31136,49.17014,0 17.30982,49.17037,0 17.30844,49.17110000000001,0 17.30905,49.17127000000001,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table>
+            <tr><td><b>Distance</b> 3.4 km </td></tr>
+            <tr><td><b>Min Alt</b> 999999.999 km </td></tr>
+          </table>]]></description>
+			<Folder>
+				<name>Points</name>
+				<Placemark>
+					<name>-0</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.345950 </td></tr>
+                <tr><td>Latitude: 49.181760 </td></tr>
+                <tr><td>Heading: 14.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34595</longitude>
+						<latitude>49.18176</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34595,49.18176,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-1</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.342950 </td></tr>
+                <tr><td>Latitude: 49.181590 </td></tr>
+                <tr><td>Heading: 265.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34295</longitude>
+						<latitude>49.18159</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34295,49.18159,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.342000 </td></tr>
+                <tr><td>Latitude: 49.181370 </td></tr>
+                <tr><td>Heading: 250.5 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.342</longitude>
+						<latitude>49.18137</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.342,49.18137,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-3</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.341060 </td></tr>
+                <tr><td>Latitude: 49.180810 </td></tr>
+                <tr><td>Heading: 227.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.34106</longitude>
+						<latitude>49.18081</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.34106,49.18081,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-4</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.339430 </td></tr>
+                <tr><td>Latitude: 49.179800 </td></tr>
+                <tr><td>Heading: 226.5 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33943</longitude>
+						<latitude>49.1798</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33943,49.17980000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-5</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.337030 </td></tr>
+                <tr><td>Latitude: 49.179400 </td></tr>
+                <tr><td>Heading: 255.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33703</longitude>
+						<latitude>49.1794</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33703,49.1794,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-6</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.333250 </td></tr>
+                <tr><td>Latitude: 49.178900 </td></tr>
+                <tr><td>Heading: 258.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33325</longitude>
+						<latitude>49.1789</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33325,49.1789,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-7</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.332390 </td></tr>
+                <tr><td>Latitude: 49.178390 </td></tr>
+                <tr><td>Heading: 227.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33239</longitude>
+						<latitude>49.17839</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33239,49.17839,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-8</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.332050 </td></tr>
+                <tr><td>Latitude: 49.177500 </td></tr>
+                <tr><td>Heading: 194.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33205</longitude>
+						<latitude>49.1775</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33205,49.1775,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-9</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.330250 </td></tr>
+                <tr><td>Latitude: 49.177210 </td></tr>
+                <tr><td>Heading: 256.2 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.33025</longitude>
+						<latitude>49.17721</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.33025,49.17721,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-10</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.328100 </td></tr>
+                <tr><td>Latitude: 49.176710 </td></tr>
+                <tr><td>Heading: 250.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.3281</longitude>
+						<latitude>49.17671</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.3281,49.17671,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-11</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.327070 </td></tr>
+                <tr><td>Latitude: 49.176320 </td></tr>
+                <tr><td>Heading: 239.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32707</longitude>
+						<latitude>49.17632</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32707,49.17632,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-12</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.326640 </td></tr>
+                <tr><td>Latitude: 49.175590 </td></tr>
+                <tr><td>Heading: 201.1 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32664</longitude>
+						<latitude>49.17559</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32664,49.17559,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-13</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.324920 </td></tr>
+                <tr><td>Latitude: 49.175190 </td></tr>
+                <tr><td>Heading: 250.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32492</longitude>
+						<latitude>49.17519</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32492,49.17518999999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-14</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.322260 </td></tr>
+                <tr><td>Latitude: 49.173010 </td></tr>
+                <tr><td>Heading: 218.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32226</longitude>
+						<latitude>49.17301</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32226,49.17301,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-15</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.320460 </td></tr>
+                <tr><td>Latitude: 49.170870 </td></tr>
+                <tr><td>Heading: 208.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.32046</longitude>
+						<latitude>49.17087</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.32046,49.17087,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-16</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.319430 </td></tr>
+                <tr><td>Latitude: 49.170090 </td></tr>
+                <tr><td>Heading: 220.8 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31943</longitude>
+						<latitude>49.17009</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31943,49.17009,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-17</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.317200 </td></tr>
+                <tr><td>Latitude: 49.169530 </td></tr>
+                <tr><td>Heading: 249.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.3172</longitude>
+						<latitude>49.16953</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.3172,49.16953,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-18</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.314970 </td></tr>
+                <tr><td>Latitude: 49.169360 </td></tr>
+                <tr><td>Heading: 263.4 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31497</longitude>
+						<latitude>49.16936</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31497,49.16936,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-19</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.312990 </td></tr>
+                <tr><td>Latitude: 49.169580 </td></tr>
+                <tr><td>Heading: 279.6 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31299</longitude>
+						<latitude>49.16958</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31299,49.16958,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-20</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.311360 </td></tr>
+                <tr><td>Latitude: 49.170140 </td></tr>
+                <tr><td>Heading: 297.7 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.31136</longitude>
+						<latitude>49.17014</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.31136,49.17014,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-21</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.309820 </td></tr>
+                <tr><td>Latitude: 49.170370 </td></tr>
+                <tr><td>Heading: 282.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30982</longitude>
+						<latitude>49.17037</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30982,49.17037,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-22</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.308440 </td></tr>
+                <tr><td>Latitude: 49.171100 </td></tr>
+                <tr><td>Heading: 309.0 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30844</longitude>
+						<latitude>49.1711</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30844,49.17110000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>-23</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<table>
+                <tr><td>Longitude: 17.309050 </td></tr>
+                <tr><td>Latitude: 49.171270 </td></tr>
+                <tr><td>Heading: 66.9 </td></tr>
+              </table>]]></description>
+					<LookAt>
+						<longitude>17.30905</longitude>
+						<latitude>49.17127</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>66</tilt>
+						<range>0</range>
+					</LookAt>
+					<styleUrl>#track-none</styleUrl>
+					<Point>
+						<coordinates>17.30905,49.17127000000001,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>Path</name>
+				<styleUrl>#lineStyle</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						17.34595,49.18176,0 17.34295,49.18159,0 17.342,49.18137,0 17.34106,49.18081,0 17.33943,49.17980000000001,0 17.33703,49.1794,0 17.33325,49.1789,0 17.33239,49.17839,0 17.33205,49.1775,0 17.33025,49.17721,0 17.3281,49.17671,0 17.32707,49.17632,0 17.32664,49.17559,0 17.32492,49.17518999999999,0 17.32226,49.17301,0 17.32046,49.17087,0 17.31943,49.17009,0 17.3172,49.16953,0 17.31497,49.16936,0 17.31299,49.16958,0 17.31136,49.17014,0 17.30982,49.17037,0 17.30844,49.17110000000001,0 17.30905,49.17127000000001,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

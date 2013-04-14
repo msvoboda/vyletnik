@@ -1,0 +1,22 @@
+﻿<controls:ChildWindow x:Class="SilverlightVylet.ChildPicture"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="600" Height="460" 
+           Title="Show picture" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="238*" />
+            <RowDefinition Height="24" />
+        </Grid.RowDefinitions>
+        
+        <Border BorderBrush="Silver" BorderThickness="1" Height="Auto" HorizontalAlignment="Stretch" Margin="2,2,2,2" Name="border" VerticalAlignment="Stretch" Width="Auto" CornerRadius="4">
+            <Image Height="Auto" Name="image" Stretch="Uniform" Width="Auto" />
+        </Border>
+        <Button x:Name="OKButton" Content="OK" Click="OKButton_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,2,0,0" Grid.Row="1" />
+
+        <Image Height="Auto" Margin="19,1,0,0" Name="imageNext" Stretch="None" VerticalAlignment="Bottom" Source="/SilverlightVylet;component/Images/Next_16x16.png" MouseLeftButtonDown="imageNext_MouseLeftButtonDown" HorizontalAlignment="Left" Grid.Row="1" />
+        <Image Height="Auto" Margin="2,0,0,0" Name="imagePrev" Stretch="None" VerticalAlignment="Bottom" Source="/SilverlightVylet;component/Images/Previous_16x16.png" MouseLeftButtonDown="imagePrev_MouseLeftButtonDown" Grid.Row="1" HorizontalAlignment="Left" Width="16" />
+        <sdk:Label Grid.Row="1" Height="20" HorizontalAlignment="Left" Margin="42,9,0,0" Name="labelCount" VerticalAlignment="Bottom" Width="96" Content="(0 / 0)" />
+    </Grid>
+</controls:ChildWindow>

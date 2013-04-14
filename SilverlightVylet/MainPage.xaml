@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="SilverlightVylet.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:my="clr-namespace:Microsoft.Maps.MapControl;assembly=Microsoft.Maps.MapControl"
+    mc:Ignorable="d"
+    d:DesignHeight="800" d:DesignWidth="600" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" xmlns:vylet="clr-namespace:SilverlightVylet">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28" />
+            <RowDefinition Height="716*" />
+            <RowDefinition Height="96" />
+        </Grid.RowDefinitions>        
+        <Border BorderBrush="#FF348D41" BorderThickness="2" Grid.RowSpan="1" Height="Auto" HorizontalAlignment="Stretch" Margin="0,2,0,2" Name="borderTop" VerticalAlignment="Stretch" Width="Auto" CornerRadius="4">
+            <sdk:Label Height="18" Name="labelVylet" Width="Auto" HorizontalAlignment="Left" Margin="6,0,0,0" Content="Výlet" FontWeight="Bold" />
+        </Border>
+        <my:Map ZoomLevel="11" Center="49.224,17.64942" HorizontalAlignment="Stretch" Name="map" VerticalAlignment="Stretch" Pitch="0" AnimationLevel="Full" Grid.Row="1" Grid.RowSpan="2" Margin="0,0,0,0">
+            <my:Map.CredentialsProvider>
+                <my:ApplicationIdCredentialsProvider ApplicationId="Agp-rOY42oI2IgC15HGYqlA_I3NyMm0-K9266mD7fP5qeSzTc_66y7ORhIk6hEzG" />
+            </my:Map.CredentialsProvider>
+            <my:MapLayer x:Name="MyLayer" />
+        </my:Map>
+        <Border BorderBrush="#FFFFE610" BorderThickness="2" CornerRadius="4" Grid.Row="2" Grid.RowSpan="1" Height="Auto" HorizontalAlignment="Stretch" Margin="0,2,0,0" Name="border1" VerticalAlignment="Stretch" Width="Auto" Background="{x:Null}">
+            <ScrollViewer Height="Auto" Name="scroll" Width="Auto" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled">
+                <StackPanel x:Name="stackImages" Orientation="Horizontal" Background="{x:Null}"></StackPanel>
+            </ScrollViewer>
+        </Border>
+        <vylet:PointDetail Grid.Row="1" HorizontalAlignment="Right" Margin="0,0,5,1" x:Name="pointDetail" VerticalAlignment="Bottom" Height="169" Visibility="Collapsed" Width="412" />
+        <Border BorderBrush="Silver" BorderThickness="1" Grid.Row="1" Height="100" HorizontalAlignment="Right" Margin="0,3,4,0" Name="borderLog" VerticalAlignment="Top" Width="200" Background="White" CornerRadius="4" Visibility="Collapsed">
+            <TextBox Height="Auto" Name="textLog" Width="Auto" Visibility="Collapsed" />
+        </Border>
+    </Grid>
+</UserControl>

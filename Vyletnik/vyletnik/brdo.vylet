@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vylet Title="">
+  <TripPoint Latitude="49.1819137783311" Longitude="17.3467576503754" Name="Výlet začíná na Bunči" ThumbImage="http://lh6.ggpht.com/_ORacftNL0tg/TYE0UOR4AjI/AAAAAAAAHhQ/Y-Gt5RVIaZU/s72/P1090951.JPG">
+    <Content>Zde je parkoviště pro auta a restaurace.</Content>
+    <Image Thumbnail="http://lh6.ggpht.com/_ORacftNL0tg/TYE0UOR4AjI/AAAAAAAAHhQ/Y-Gt5RVIaZU/s72/P1090951.JPG" Src="http://lh6.ggpht.com/_ORacftNL0tg/TYE0UOR4AjI/AAAAAAAAHhQ/Y-Gt5RVIaZU/P1090951.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.1819137783311" Longitude="17.3467576503754" Name="Cesta pokračuje lesem" ThumbImage="http://lh5.ggpht.com/_ORacftNL0tg/TYE0UJHnM1I/AAAAAAAAHhY/HFSKNd19Zfs/s72/P1090959.JPG">
+    <Content>V lese se nacházi panelové pilíře - pozůstatek baťovi dálnice</Content>
+    <Image Thumbnail="http://lh5.ggpht.com/_ORacftNL0tg/TYE0UJHnM1I/AAAAAAAAHhY/HFSKNd19Zfs/s72/P1090959.JPG" Src="http://lh5.ggpht.com/_ORacftNL0tg/TYE0UJHnM1I/AAAAAAAAHhY/HFSKNd19Zfs/P1090959.JPG" />
+    <Image Thumbnail="http://lh5.ggpht.com/_ORacftNL0tg/TYE0Jm85x1I/AAAAAAAAHhI/K80L14DwsKk/s72/_MG_5669.JPG" Src="http://lh5.ggpht.com/_ORacftNL0tg/TYE0Jm85x1I/AAAAAAAAHhI/K80L14DwsKk/_MG_5669.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.1701655992564" Longitude="17.3101937770844" Name="Brdo na dohled" ThumbImage="http://lh4.ggpht.com/_ORacftNL0tg/TYE0J4wv2vI/AAAAAAAAHhM/fnBhK3jsJTg/s72/_MG_5691.JPG">
+    <Content>Po třech kilometrech pěší turistiky vykoukne Brdo z křižovatky Pod Brdem.</Content>
+    <Image Thumbnail="http://lh4.ggpht.com/_ORacftNL0tg/TYE0J4wv2vI/AAAAAAAAHhM/fnBhK3jsJTg/s72/_MG_5691.JPG" Src="http://lh4.ggpht.com/_ORacftNL0tg/TYE0J4wv2vI/AAAAAAAAHhM/fnBhK3jsJTg/_MG_5691.JPG" />
+  </TripPoint>
+  <TripPoint Latitude="49.1706706529644" Longitude="17.308144569397" Name="Brdo" ThumbImage="http://lh3.ggpht.com/_ORacftNL0tg/TYE0U2K-IOI/AAAAAAAAHhc/1ZG4CeEStAs/s72/P1100050.JPG">
+    <Content>Cíl cesty je rozhledna na Brdu. Doporučuji výlezt nahoru a pokochat se pohledem z nejvyššího kopce Křibů</Content>
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TYE0UIFl_SI/AAAAAAAAHhU/9YdW3prVBjw/s72/P1090992.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TYE0UIFl_SI/AAAAAAAAHhU/9YdW3prVBjw/P1090992.JPG" />
+    <Image Thumbnail="http://lh3.ggpht.com/_ORacftNL0tg/TYE0U2K-IOI/AAAAAAAAHhc/1ZG4CeEStAs/s72/P1100050.JPG" Src="http://lh3.ggpht.com/_ORacftNL0tg/TYE0U2K-IOI/AAAAAAAAHhc/1ZG4CeEStAs/P1100050.JPG" />
+  </TripPoint>
+</vylet>
